@@ -1,0 +1,6 @@
+PD REST EEG Data Structure Analysis Summary
+============================================================
+
+Analyzed 4 random subjects
+Files analyzed: 808_1_PD_REST.mat, 816_2_PD_REST.mat, 805_1_PD_REST.mat, 809_1_PD_REST.mat
+

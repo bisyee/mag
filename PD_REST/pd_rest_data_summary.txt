@@ -1,0 +1,19 @@
+PD REST Data Structure Analysis Summary
+============================================================
+
+Analyzed single file: 8010_1_PD_REST.mat
+
+8010_1_PD_REST:
+  subject: None
+  group: None
+  condition: None
+  nbchan: 67
+  trials: 1
+  pnts: 83501
+  srate: 500.0
+  xmin: 0.0
+  xmax: 167.0
+  data_shape: ()
+  channels: 1
+  timepoints: 0
+  Data dimensions: ()
